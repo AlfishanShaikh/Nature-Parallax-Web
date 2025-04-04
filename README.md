@@ -7,6 +7,10 @@ Welcome to the **Nature Parallax Website** repository! This project showcases a 
 
 ## 🔥 Live Preview  
 
+![screenshot](https://github.com/AlfishanShaikh/Nature-Parallax-Web/blob/7a0975e92081eed6844d3bf925e185e48013451d/screenshot%201.png)
+
+![screenshot](https://github.com/AlfishanShaikh/Nature-Parallax-Web/blob/7a0975e92081eed6844d3bf925e185e48013451d/screenshot%202.png)
+
 ## 🎨 Features
 ✅ Smooth **parallax scrolling effect**  
 ✅ Fully **responsive** design  
