@@ -3,7 +3,7 @@
 Welcome to the **Nature Parallax Website** repository! This project showcases a smooth **parallax scrolling effect** using **HTML & CSS** to create a visually appealing nature-inspired web page.
 
 ## 🔗 Live Demo
-[Click here to view the live demo](#) 
+[Click here to view the live demo](https://alfishanshaikh.github.io/Nature-Parallax-Web/) 
 
 ## 🔥 Live Preview  
 
